@@ -1,0 +1,3 @@
+﻿  Process_allocator.cpp
+  Process_allocator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Slob Allocator.vcxproj -> C:\Users\Hatim\source\repos\Slob Allocator\Debug\Slob Allocator.exe
